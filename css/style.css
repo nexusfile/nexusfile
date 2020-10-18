@@ -446,7 +446,7 @@ code, pre code {
 /* headerSection css ends */
 /* bannerSection css starts */
 .bannerSection {
-  background-image: url('./images/portal.jpg');
+  background-image: url('../images/portal.jpg');
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -513,7 +513,7 @@ CHAIN LAYOUT START
   margin: 0 auto 5px;
 }
 .bg-gray {
-  background-image: url('./images/cryptocurrency.jpg');
+  background-image: url('../images/cryptocurrency.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -544,7 +544,7 @@ CHAIN LAYOUT CLOSE
   z-index: 2;
 }
 .identitySection {
-  background-image: url('./images/identitybg2.jpg');
+  background-image: url('../images/identitybg2.jpg');
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -556,7 +556,7 @@ CHAIN LAYOUT CLOSE
 MANAGEMENT LAYOUT START
 =============================*/
 .manageSection {
-  background-image: url('./images/3dc.jpg');
+  background-image: url('../images/3dc.jpg');
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -879,7 +879,7 @@ WALLET GUIDE LAYOUT START
   padding: 220px 0px;
 }
 .wallet-guide-bg {
-  background-image: url('./images/wal-guide-banner.jpg');
+  background-image: url('../images/wal-guide-banner.jpg');
 }
 .bannerTitle h3 {
   text-shadow: 0px 0px 6px rgba(0,0,0,0.2);
@@ -933,7 +933,7 @@ WALLET GUIDE LAYOUT START
   position: absolute;
   left: 0px;
   top: 16px;
-  background-image: url('./images/arrow-right.svg');
+  background-image: url('../images/arrow-right.svg');
   width: 13px;
   height: 12px;
   background-repeat: no-repeat;
@@ -944,7 +944,7 @@ WALLET GUIDE LAYOUT START
   transition: all 500ms ease-in-out 0s;
 }
 .leftSideBar li a.subMenu:after {
-  background-image: url('./images/arrow-sub-right.svg');
+  background-image: url('../images/arrow-sub-right.svg');
 }
 .leftSideBar li > ul {
   margin-left: 10px;
@@ -1036,7 +1036,7 @@ WALLET GUIDE LAYOUT CLOSE
 /********NEXUS CURRENCY LAYOUT STARTS***********/
 
 .nxscurrencyCol {
-  background-image: url('./images/currencybg.jpg');
+  background-image: url('../images/currencybg.jpg');
   min-height:350px;
   height: auto;
 }
@@ -1356,7 +1356,7 @@ WALLET GUIDE LAYOUT CLOSE
   font-size: 40px;
   }
   #framework {
-  background-image: url("./images/TAO-bg.png");
+  background-image: url("../images/TAO-bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   color: #0777b7;
